@@ -5,3 +5,4 @@
 ### the keys to success ive learned so far is to not give up even when it seems imppossible, i know this course/schooling wont be easy and to take it a step at a time and dont be afraid to ask for help.
 
 # **Dont Give Up**
+###### ***Learning markdown seems pretty straight forward but if you get stuck on things google will be your best friend***
